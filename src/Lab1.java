@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lob1 {
+public class Lab1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 //        System.out.println("Name: ");
@@ -35,7 +35,7 @@ public class Lob1 {
         Float cd = scanner.nextFloat();
         System.out.println("Chiều rộng của hình chữ nhật: ");
         Float cr = scanner.nextFloat();
-        System.out.println("Chu vi hình chữ nhật là: " + (cd+cr)*2);
-        System.out.println("Diện tích hình chữ nhật là: " + cd*cr);
+        System.out.println("Chu vi hình chữ nhật là: " + (cd + cr) * 2);
+        System.out.println("Diện tích hình chữ nhật là: " + cd * cr);
     }
 }

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lob2 {
+public class Lab2 {
     public static void bai1() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("cho phương trình ax + b = 0. Nhập a và b để tìm x");
